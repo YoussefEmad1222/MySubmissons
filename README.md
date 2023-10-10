@@ -6,6 +6,7 @@ Submissions
 ## Platforms
 * [Codeforces](#codeforces)
 * [CSES](#cses)
+* [Vjudge](#vjudge)
 
 ## Codeforces<a name="codeforces"></a>
 | # | Problem | Solution | Tags | Submitted |
@@ -314,5 +315,75 @@ Submissions
 3 | [Repetitions](https://cses.fi/problemset/task/1069/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Repetitions.cpp) | Introductory Problems | 2023-07-01 15:22 |
 2 | [Missing Number](https://cses.fi/problemset/task/1083/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Missing_Number.cpp) | Introductory Problems | 2023-07-01 15:16 |
 1 | [Weird Algorithm](https://cses.fi/problemset/task/1068/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Weird_Algorithm.cpp) | Introductory Problems | 2023-07-01 14:24 |
+
+## Vjudge<a name="vjudge"></a>
+| # | Problem | Solution | Submitted |
+| - |  -----  | -------- | --------- |
+66 | [Jzzhu and Children](https://vjudge.net/problem/CodeForces-450A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/450A.cpp) | 2023:09:29 04:24 |
+65 | [The Monkey and the Oiled Bamboo](https://vjudge.net/problem/UVA-12032) | [C++11 5.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/UVA/12032.cpp) | 2022:10:15 00:11 |
+64 | [Petr and Book](https://vjudge.net/problem/CodeForces-139A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/139A.cpp) | 2022:10:15 00:05 |
+63 | [Prime Words](https://vjudge.net/problem/UVA-10924) | [C++11 5.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/UVA/10924.cpp) | 2022:10:15 00:00 |
+62 | [Die Roll](https://vjudge.net/problem/CodeForces-9A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/9A.cpp) | 2022:10:14 23:00 |
+61 | [Football](https://vjudge.net/problem/CodeForces-96A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/96A.cpp) | 2022:10:14 22:31 |
+60 | [Replacing Elements](https://vjudge.net/problem/CodeForces-1473A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1473A.cpp) | 2022:10:14 22:02 |
+59 | [Co-growing Sequence](https://vjudge.net/problem/CodeForces-1547D) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1547D.cpp) | 2022:10:14 21:59 |
+58 | [Wizard of Orz](https://vjudge.net/problem/CodeForces-1467A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1467A.cpp) | 2022:10:14 21:44 |
+57 | [Sorted Adjacent Differences](https://vjudge.net/problem/CodeForces-1339B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1339B.cpp) | 2022:10:14 20:55 |
+56 | [Different Divisors](https://vjudge.net/problem/CodeForces-1474B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1474B.cpp) | 2022:10:14 20:23 |
+55 | [Building Strings](https://vjudge.net/problem/Gym-102152E) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/Gym/102152E.cpp) | 2022:10:11 06:01 |
+54 | [After Training](https://vjudge.net/problem/CodeForces-195B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/195B.cpp) | 2022:10:11 04:57 |
+53 | [Delete from the Left](https://vjudge.net/problem/CodeForces-1005B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1005B.cpp) | 2022:10:10 05:22 |
+52 | [Large GCD](https://vjudge.net/problem/Gym-102152C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/Gym/102152C.cpp) | 2022:10:10 04:37 |
+51 | [Quality vs Quantity](https://vjudge.net/problem/CodeForces-1646B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1646B.cpp) | 2022:10:10 04:05 |
+50 | [Tanya and Stairways](https://vjudge.net/problem/CodeForces-1005A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1005A.cpp) | 2022:10:10 02:40 |
+49 | [Card Deck](https://vjudge.net/problem/CodeForces-1492B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1492B.cpp) | 2022:10:08 08:30 |
+48 | [GCD Sum](https://vjudge.net/problem/CodeForces-1498A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1498A.cpp) | 2022:09:23 04:11 |
+47 | [Balanced Remainders](https://vjudge.net/problem/CodeForces-1490B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1490B.cpp) | 2022:09:23 03:44 |
+46 | [Odd Set](https://vjudge.net/problem/CodeForces-1542A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1542A.cpp) | 2022:09:19 18:24 |
+45 | [Polycarp and Coins](https://vjudge.net/problem/CodeForces-1551A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1551A.cpp) | 2022:09:19 17:55 |
+44 | [Difference Row](https://vjudge.net/problem/CodeForces-347A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/347A.cpp) | 2022:09:15 01:51 |
+43 | [Currency System in Geraldion](https://vjudge.net/problem/CodeForces-560A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/560A.cpp) | 2022:09:14 20:11 |
+42 | [Maria Breaks the Self-isolation](https://vjudge.net/problem/CodeForces-1358B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1358B.cpp) | 2022:09:14 19:49 |
+41 | [Dragons](https://vjudge.net/problem/CodeForces-230A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/230A.cpp) | 2022:09:14 18:29 |
+40 | [Counting Sort 2](https://vjudge.net/problem/HackerRank-countingsort2) | [cpp20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/HackerRank/countingsort2.cpp) | 2022:09:14 18:12 |
+39 | [Counting Sort 1](https://vjudge.net/problem/HackerRank-countingsort1) | [cpp20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/HackerRank/countingsort1.cpp) | 2022:09:14 18:03 |
+38 | [Chocolate](https://vjudge.net/problem/CodeForces-617B) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/617B.cpp) | 2022:09:11 21:04 |
+37 | [LCM Problem](https://vjudge.net/problem/CodeForces-1389A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1389A.cpp) | 2022:09:10 01:51 |
+36 | [Maximum GCD](https://vjudge.net/problem/CodeForces-1370A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1370A.cpp) | 2022:09:10 01:49 |
+35 | [GCD LCM](https://vjudge.net/problem/UVA-11388) | [C++11 5.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/UVA/11388.cpp) | 2022:09:10 00:38 |
+34 | [Modified GCD](https://vjudge.net/problem/CodeForces-75C) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/75C.cpp) | 2022:09:09 18:01 |
+33 | [Again Twenty Five!](https://vjudge.net/problem/CodeForces-630A) | [GNU G++20 11.2.0 (64 bit, winlibs)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/630A.cpp) | 2022:09:09 15:35 |
+32 | [Counting Kangaroos is Fun](https://vjudge.net/problem/CodeForces-372A) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/372A.cpp) | 2022:08:28 18:59 |
+31 | [Preparing Olympiad](https://vjudge.net/problem/CodeForces-550B) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/550B.cpp) | 2022:08:16 21:19 |
+30 | [Bars](https://vjudge.net/problem/UVA-12455) | [C++11 5.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/UVA/12455.cpp) | 2022:08:16 13:14 |
+29 | [Bitwise Operators](https://vjudge.net/problem/CodeChef-NXS2) | [C++14 (gcc 6.3)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeChef/NXS2.cpp) | 2022:08:16 11:59 |
+28 | [XORwice](https://vjudge.net/problem/CodeForces-1421A) | [GNU G++17 9.2.0 (64 bit, msys 2)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1421A.cpp) | 2022:08:15 12:36 |
+27 | [Little Elephant and Bits](https://vjudge.net/problem/CodeForces-258A) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/258A.cpp) | 2022:08:05 16:50 |
+26 | [Partition](https://vjudge.net/problem/CodeForces-946A) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/946A.cpp) | 2022:08:05 16:23 |
+25 | [Building Permutation](https://vjudge.net/problem/CodeForces-285C) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/285C.cpp) | 2022:08:05 16:09 |
+24 | [Puzzles](https://vjudge.net/problem/CodeForces-337A) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/337A.cpp) | 2022:08:05 14:56 |
+23 | [Sale](https://vjudge.net/problem/CodeForces-34B) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/34B.cpp) | 2022:08:05 14:37 |
+22 | [Dense Array](https://vjudge.net/problem/CodeForces-1490A) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1490A.cpp) | 2022:08:05 09:57 |
+21 | [Little Elephant and Median](https://vjudge.net/problem/HackerRank-median) | [cpp20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/HackerRank/median.cpp) | 2022:08:04 16:08 |
+20 | [Dice Tower](https://vjudge.net/problem/CodeForces-225A) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/225A.cpp) | 2022:08:02 06:36 |
+19 | [Palindrome with leading zeros](https://vjudge.net/problem/AtCoder-abc198_b) | [C++ (GCC 9.2.1)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/AtCoder/abc198_b.cpp) | 2022:08:02 05:12 |
+18 | [Helpful Maths](https://vjudge.net/problem/CodeForces-339A) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/339A.cpp) | 2022:08:02 03:09 |
+17 | [Calculating Function](https://vjudge.net/problem/CodeForces-486A) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/486A.cpp) | 2022:08:02 01:53 |
+16 | [Children and Candies (ABC Edit)](https://vjudge.net/problem/AtCoder-abc043_a) | [C++ (GCC 9.2.1)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/AtCoder/abc043_a.cpp) | 2022:08:02 01:22 |
+15 | [Sorting Queries](https://vjudge.net/problem/AtCoder-abc217_e) | [C++ (GCC 9.2.1)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/AtCoder/abc217_e.cpp) | 2022:07:31 06:02 |
+14 | [Berpizza](https://vjudge.net/problem/CodeForces-1468C) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1468C.cpp) | 2022:07:30 17:37 |
+13 | [Andy's First Dictionary](https://vjudge.net/problem/UVA-10815) | [C++11 5.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/UVA/10815.cpp) | 2022:07:30 16:00 |
+12 | [Heap Operations](https://vjudge.net/problem/CodeForces-681C) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/681C.cpp) | 2022:07:29 11:41 |
+11 | [Anton and Letters](https://vjudge.net/problem/CodeForces-443A) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/443A.cpp) | 2022:07:29 06:59 |
+10 | [Registration System](https://vjudge.net/problem/CodeForces-4C) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/4C.cpp) | 2022:07:29 06:45 |
+9 | [Cancel the Trains](https://vjudge.net/problem/CodeForces-1453A) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/1453A.cpp) | 2022:07:29 06:19 |
+8 | [Boy or Girl](https://vjudge.net/problem/CodeForces-236A) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/236A.cpp) | 2022:07:29 03:22 |
+7 | [Alternating Current](https://vjudge.net/problem/CodeForces-343B) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/343B.cpp) | 2022:07:27 11:01 |
+6 | [Array](https://vjudge.net/problem/CodeForces-300A) | [GNU G++17 7.3.0](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/300A.cpp) | 2022:07:26 18:55 |
+5 | [Easy Stack](https://vjudge.net/problem/SPOJ-STACKEZ) | [C++ (g++ 4.3.2)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/SPOJ/STACKEZ.cpp) | 2022:07:25 17:10 |
+4 | [Easy Queue](https://vjudge.net/problem/SPOJ-QUEUEEZ) | [C++ (g++ 4.3.2)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/SPOJ/QUEUEEZ.cpp) | 2022:07:25 17:08 |
+3 | [Left Rotation](https://vjudge.net/problem/HackerRank-array-left-rotation) | [cpp](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/HackerRank/array-left-rotation.cpp) | 2022:07:24 23:50 |
+2 | [Slimes](https://vjudge.net/problem/AtCoder-abc143_c) | [Java (OpenJDK 11.0.6)](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/AtCoder/abc143_c.cpp) | 2022:05:17 22:57 |
+1 | [Hongcow Learns the Cyclic Shift](https://vjudge.net/problem/CodeForces-745A) | [Java 11.0.6](https://github.com/YoussefEmad1222/MySubmissons/blob/main/Vjudge/CodeForces/745A.cpp) | 2022:05:17 22:18 |
 
 
