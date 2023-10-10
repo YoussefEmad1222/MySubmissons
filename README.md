@@ -5,6 +5,7 @@ Submissions
 
 ## Platforms
 * [Codeforces](#codeforces)
+* [CSES](#cses)
 
 ## Codeforces<a name="codeforces"></a>
 | # | Problem | Solution | Tags | Submitted |
@@ -267,5 +268,51 @@ Submissions
 3 | [Calculating Function](https://codeforces.com/contest/486/problem/A) | [GNU C++20 (64)](https://codeforces.com/contest/486/submission/166630631) | `implementation` `math` `800` | 2022-08-01 22:53 |
 2 | [Berpizza](https://codeforces.com/contest/1468/problem/C) | [GNU C++20 (64)](https://codeforces.com/contest/1468/submission/166236663) | `data structures` `implementation` `1400` | 2022-07-30 14:36 |
 1 | [Heap Operations](https://codeforces.com/contest/681/problem/C) | [GNU C++20 (64)](https://codeforces.com/contest/681/submission/166091027) | `constructive algorithms` `data structures` `greedy` `1600` | 2022-07-29 08:40 |
+
+## CSES<a name="cses"></a>
+| # | Problem | Solution | Tags | Submitted |
+| - |  -----  | -------- | ---- | --------- |
+42 | [Two Sets](https://cses.fi/problemset/task/1092/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Two_Sets.cpp) | Introductory Problems | 2023-07-16 01:38 |
+41 | [Creating Strings](https://cses.fi/problemset/task/1622/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Creating_Strings.cpp) | Introductory Problems | 2023-07-15 23:44 |
+40 | [Apple Division](https://cses.fi/problemset/task/1623/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Apple_Division.cpp) | Introductory Problems | 2023-07-15 23:33 |
+39 | [Gray Code](https://cses.fi/problemset/task/2205/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Gray_Code.cpp) | Introductory Problems | 2023-07-15 23:14 |
+38 | [Palindrome Reorder](https://cses.fi/problemset/task/1755/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Palindrome_Reorder.cpp) | Introductory Problems | 2023-07-14 03:27 |
+37 | [Trailing Zeros](https://cses.fi/problemset/task/1618/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Trailing_Zeros.cpp) | Introductory Problems | 2023-07-13 23:03 |
+36 | [Bit Strings](https://cses.fi/problemset/task/1617/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Bit_Strings.cpp) | Introductory Problems | 2023-07-13 22:39 |
+35 | [Two Knights](https://cses.fi/problemset/task/1072/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Two_Knights.cpp) | Introductory Problems | 2023-07-13 22:30 |
+34 | [Number Spiral](https://cses.fi/problemset/task/1071/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Number_Spiral.cpp) | Introductory Problems | 2023-07-13 20:47 |
+33 | [Permutations](https://cses.fi/problemset/task/1070/) | [C++](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Permutations.cpp) | Introductory Problems | 2023-07-13 17:38 |
+32 | [Maximum Subarray Sum II](https://cses.fi/problemset/task/1644/) | [C++](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Maximum_Subarray_Sum_II.cpp) | Sorting and Searching | 2023-07-10 02:19 |
+31 | [Subarray Distinct Values](https://cses.fi/problemset/task/2428/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Subarray_Distinct_Values.cpp) | Sorting and Searching | 2023-07-08 17:44 |
+30 | [Sliding Cost](https://cses.fi/problemset/task/1077/) | [C++11](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Sliding_Cost.cpp) | Sorting and Searching | 2023-07-07 21:51 |
+29 | [Sliding Median](https://cses.fi/problemset/task/1076/) | [C++11](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Sliding_Median.cpp) | Sorting and Searching | 2023-07-07 21:12 |
+28 | [Array Division](https://cses.fi/problemset/task/1085/) | [C++](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Array_Division.cpp) | Sorting and Searching | 2023-07-07 19:47 |
+27 | [Subarray Divisibility](https://cses.fi/problemset/task/1662/) | [C++11](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Subarray_Divisibility.cpp) | Sorting and Searching | 2023-07-05 16:47 |
+26 | [Subarray Sums I](https://cses.fi/problemset/task/1660/) | [C++11](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Subarray_Sums_I.cpp) | Sorting and Searching | 2023-07-05 15:23 |
+25 | [Subarray Sums II](https://cses.fi/problemset/task/1661/) | [C++11](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Subarray_Sums_II.cpp) | Sorting and Searching | 2023-07-05 15:17 |
+24 | [Nearest Smaller Values](https://cses.fi/problemset/task/1645/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Nearest_Smaller_Values.cpp) | Sorting and Searching | 2023-07-05 14:22 |
+23 | [Sum of Four Values](https://cses.fi/problemset/task/1642/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Sum_of_Four_Values.cpp) | Sorting and Searching | 2023-07-04 18:55 |
+22 | [Sum of Three Values](https://cses.fi/problemset/task/1641/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Sum_of_Three_Values.cpp) | Sorting and Searching | 2023-07-04 17:45 |
+21 | [Traffic Lights](https://cses.fi/problemset/task/1163/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Traffic_Lights.cpp) | Sorting and Searching | 2023-07-04 17:14 |
+20 | [Josephus Problem II](https://cses.fi/problemset/task/2163/) | [C++](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Josephus_Problem_II.cpp) | Sorting and Searching | 2023-07-04 16:41 |
+19 | [Josephus Problem I](https://cses.fi/problemset/task/2162/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Josephus_Problem_I.cpp) | Sorting and Searching | 2023-07-04 15:43 |
+18 | [Towers](https://cses.fi/problemset/task/1073/) | [C++](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Towers.cpp) | Sorting and Searching | 2023-07-04 14:59 |
+17 | [Playlist](https://cses.fi/problemset/task/1141/) | [C++](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Playlist.cpp) | Sorting and Searching | 2023-07-02 21:13 |
+16 | [Collecting Numbers II](https://cses.fi/problemset/task/2217/) | [C++11](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Collecting_Numbers_II.cpp) | Sorting and Searching | 2023-07-02 18:15 |
+15 | [Collecting Numbers](https://cses.fi/problemset/task/2216/) | [C++11](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Collecting_Numbers.cpp) | Sorting and Searching | 2023-07-02 16:33 |
+14 | [Missing Coin Sum](https://cses.fi/problemset/task/2183/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Missing_Coin_Sum.cpp) | Sorting and Searching | 2023-07-02 15:34 |
+13 | [Stick Lengths](https://cses.fi/problemset/task/1074/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Stick_Lengths.cpp) | Sorting and Searching | 2023-07-02 13:23 |
+12 | [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Maximum_Subarray_Sum.cpp) | Sorting and Searching | 2023-07-02 13:13 |
+11 | [Sum of Two Values](https://cses.fi/problemset/task/1640/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Sum_of_Two_Values.cpp) | Sorting and Searching | 2023-07-02 12:36 |
+10 | [Movie Festival](https://cses.fi/problemset/task/1629/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Movie_Festival.cpp) | Sorting and Searching | 2023-07-02 12:24 |
+9 | [Restaurant Customers](https://cses.fi/problemset/task/1619/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Restaurant_Customers.cpp) | Sorting and Searching | 2023-07-01 16:56 |
+8 | [Concert Tickets](https://cses.fi/problemset/task/1091/) | [C++](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Concert_Tickets.cpp) | Sorting and Searching | 2023-07-01 16:43 |
+7 | [Ferris Wheel](https://cses.fi/problemset/task/1090/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Ferris_Wheel.cpp) | Sorting and Searching | 2023-07-01 16:12 |
+6 | [Apartments](https://cses.fi/problemset/task/1084/) | [C++](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Apartments.cpp) | Sorting and Searching | 2023-07-01 16:03 |
+5 | [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Sorting_and_Searching/Distinct_Numbers.cpp) | Sorting and Searching | 2023-07-01 15:39 |
+4 | [Increasing Array](https://cses.fi/problemset/task/1094/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Increasing_Array.cpp) | Introductory Problems | 2023-07-01 15:30 |
+3 | [Repetitions](https://cses.fi/problemset/task/1069/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Repetitions.cpp) | Introductory Problems | 2023-07-01 15:22 |
+2 | [Missing Number](https://cses.fi/problemset/task/1083/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Missing_Number.cpp) | Introductory Problems | 2023-07-01 15:16 |
+1 | [Weird Algorithm](https://cses.fi/problemset/task/1068/) | [C++20](https://github.com/YoussefEmad1222/MySubmissons/blob/main/CSES/Introductory_Problems/Weird_Algorithm.cpp) | Introductory Problems | 2023-07-01 14:24 |
 
 
